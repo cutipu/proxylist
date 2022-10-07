@@ -7,7 +7,7 @@ If you want to add some, just make an issue or a git push.
 
 
 HTTP: 159389 ( +0 )
-SOCKS4: 29807 ( +55 )
-SOCKS5: 7119 ( +-443 )
-Total: 196315 ( +-388 )
+SOCKS4: 29806 ( +-1 )
+SOCKS5: 7554 ( +435 )
+Total: 196749 ( +434 )
         
