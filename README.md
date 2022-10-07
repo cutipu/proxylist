@@ -1,23 +1,21 @@
 
-# Say "Fuck" to rate-limit. 🖕
-
-> No need to scrape all the web, all is here.
->You can find the sources used in the file "sources.csv".
-> If you want to add some, just make an issue or a git push.
-
-
 ```mermaid
-pie title 189167 Proxies in list
-    "HTTP" : 156245
-    "SOCKS4" : 26179
-    "SOCKS5" : 6743
+pie title 195862 Proxies in list
+    "HTTP" : 159768
+    "SOCKS4" : 28517
+    "SOCKS5" : 7577
             
 ```
 
 ```mermaid
-pie title 1 New proxies amount
-    "HTTP" : 0
-    "SOCKS4" : 0
-    "SOCKS5" : 1
+pie title 195862 New proxies amount
+    "HTTP" : 159768
+    "SOCKS4" : 28517
+    "SOCKS5" : 7577
+```
+
+```
+Proxies are scrapped from the website in url.csv.
+You are free to make git push to get the list updated !
 ```
         
