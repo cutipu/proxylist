@@ -6,8 +6,8 @@ You can find the sources used in the file "sources.csv".
 If you want to add some, just make an issue or a git push.
 
 
-HTTP: 159389 ( +1 )
-SOCKS4: 29752 ( +-1 )
-SOCKS5: 7562 ( +410 )
-Total: 196703 ( +410 )
+HTTP: 159389 ( +0 )
+SOCKS4: 29807 ( +55 )
+SOCKS5: 7119 ( +-443 )
+Total: 196315 ( +-388 )
         
