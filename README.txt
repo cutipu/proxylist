@@ -6,8 +6,18 @@ You can find the sources used in the file "sources.csv".
 If you want to add some, just make an issue or a git push.
 
 
-HTTP: 156365 ( +-2921 )
-SOCKS4: 26302 ( +-3476 )
-SOCKS5: 6722 ( +-386 )
-Total: 189389 ( +-6783 )
+```mermaid
+pie title 191006 Proxies in list
+    "HTTP" : 154877
+    "SOCKS4" : 28539
+    "SOCKS5" : 7590
+            
+```
+
+```mermaid
+pie title 191006 New proxies amount
+    "HTTP" : 154877
+    "SOCKS4" : 28539
+    "SOCKS5" : 7590
+```
         
