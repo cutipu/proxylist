@@ -7,17 +7,17 @@ If you want to add some, just make an issue or a git push.
 
 
 ```mermaid
-pie title 191991 Proxies in list
-    "HTTP" : 154994
-    "SOCKS4" : 29321
-    "SOCKS5" : 7676
+pie title 192145 Proxies in list
+    "HTTP" : 155074
+    "SOCKS4" : 29397
+    "SOCKS5" : 7674
             
 ```
 
 ```mermaid
-pie title 191991 New proxies amount
-    "HTTP" : 154994
-    "SOCKS4" : 29321
-    "SOCKS5" : 7676
+pie title 154 New proxies amount
+    "HTTP" : 80
+    "SOCKS4" : 76
+    "SOCKS5" : -2
 ```
         
