@@ -1,17 +1,17 @@
 
 ```mermaid
-pie title 186936 Proxies in list
-    "HTTP" : 156180
+pie title 186886 Proxies in list
+    "HTTP" : 156130
     "SOCKS4" : 24011
     "SOCKS5" : 6745
             
 ```
 
 ```mermaid
-pie title 730 New proxies amount
+pie title -50 New proxies amount
     "HTTP" : 0
-    "SOCKS4" : 661
-    "SOCKS5" : 69
+    "SOCKS4" : 0
+    "SOCKS5" : 0
 ```
 
 ```
